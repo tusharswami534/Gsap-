@@ -10,7 +10,7 @@ gsap.to(".box", {
   }
 });
 gsap.to(".text-gsap", {
-  y: -300,
+  x: -1200,
   scrollTrigger: {
     trigger: ".text-gsap",
     start: "0%",
